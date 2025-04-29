@@ -46,4 +46,4 @@ This project implements a *Logistic Regression* model to classify tumors as *Mal
 - Confusion Matrix Heatmap
 - ROC Curve
 - Sigmoid Curve
---
+  
